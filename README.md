@@ -21,14 +21,14 @@
 [![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
 [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](#)
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jodavid&theme=github_dark)](#)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jodavid&theme=github_dark)](#)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jodavid&theme=github_dark)](#)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jodavid&theme=github_dark)](#)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jodavid&theme=github_dark)](#)
 [![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#)
 [![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuBarbosaj&theme=github_dark)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuBarbosaj&theme=github_dark)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuBarbosaj&theme=github_dark)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuBarbosaj&theme=github_dark)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuBarbosaj&theme=github_dark)](#)
 
 ---
 
